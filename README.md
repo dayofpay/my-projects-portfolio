@@ -10,7 +10,7 @@
 
 ## Автор
 
-- [@dayofpay](https://www.v-devs.online)
+- [@Vladislav Ivanov](https://www.v-devs.online)
 
 
 ## VignetteCheckBG
