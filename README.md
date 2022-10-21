@@ -323,6 +323,7 @@
 
 ## Снимка на проекта
 ![](https://media.discordapp.net/attachments/798641136716611614/1032300175789670490/smartmockups_l9fqga89.jpg?width=1202&height=676)
+![](https://media.discordapp.net/attachments/798641136716611614/1032932073171849256/screely-1666340465330.png?width=891&height=468)
 
 ## Product Manager
 Цел на проекта: 
